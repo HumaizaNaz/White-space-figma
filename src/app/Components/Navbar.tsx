@@ -19,7 +19,7 @@ const Navbar = () => {
         <Link href="/">
           <div className="lg:w-[191px] lg:h-[34px] cursor-pointer">
             <Image
-              src="/logo.png"
+              src="/Logo.png"
               alt="logo"
               width={191}
               height={39}
